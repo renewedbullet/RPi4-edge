@@ -1,1 +1,7 @@
 Pi4 Edge Build
+
+Armbian base build 
+User: root
+Pass: 1234
+
+Force change at boot.
